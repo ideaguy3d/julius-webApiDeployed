@@ -33,7 +33,7 @@ namespace DeployPrac.Controllers
         // PUT: api/Products/5
         public void Put(int id, [FromBody]string value)
         {
-
+            
         }
 
         // DELETE: api/Products/5
